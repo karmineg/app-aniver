@@ -1,4 +1,4 @@
-# README - APP Aniversário
+# README - APP Aniversário 🎂
 
 Um aplicativo interativo de aniversário feito em React, projetado para celebrar de forma divertida e única. O aplicativo permite que os usuários abram uma caixa de presente virtual que, ao ser clicada, revela uma mensagem de feliz aniversário, animações e gifs.
 
