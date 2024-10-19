@@ -6,7 +6,7 @@ Um aplicativo interativo de aniversário feito em React, projetado para celebrar
 
 - **Interatividade:** O usuário pode clicar na caixa de presente para abri-la.
 - **Animações:** Após abrir a caixa, animações de gatos se movem pela tela.
-- **Música de Parabéns:** Um áudio de "Parabéns criolo" toca ao abrir a caixa.
+- **Música de Parabéns:** Um áudio de "Parabéns" toca ao abrir a caixa.
 - **Mensagem Personalizada:** Uma mensagem de feliz aniversário é exibida.
 - **GIF de Bolo:** Um GIF de bolo é mostrado após a caixa ser aberta.
 - **Felicitações:** Uma mensagem especial de felicitações é exibida na parte inferior esquerda da tela.
